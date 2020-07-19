@@ -1,1 +1,71 @@
+body {
+  font-family:"Hiragino Kaku Gothic ProN";
+
+}
+
+header {
+
+ height: 100px;
+ border-bottom: 1px solid;
+}
+
+
+header img {
+  width: 280px;
+  height: 80px;
+  float: left;
+  padding-right:60px;
+}
+
+
+
+
+
+.header-list  li{
+  list-style: none;
+  float: left;
+  padding: 35px 30px 20px 30px;
+  font-size: 20px;
+  margin: 0 auto;
+  letter-spacing: 1px;
+}
+
+
+
+.top-wrapper img{
+  width: 200px;
+  height: 55px;
+  padding: 40px 20px 10px 20px;
+
+
+}
+
+.top-wrapper img:hover {
+  opacity: 0.5;
+}
+
+
+.top-wrapper p {
+  padding-left: 30px;
+
+}
+
+
+
+
+.lesson-wrapper img {
+  width: 700px;
+  height: 500px;
+  margin:0 auto;
+}
+
+footer img {
+  width: 200px;
+  height: 55px;
+  padding: 30px 20px;
+}
+
+footer {
+  border-bottom: 1px solid;
+}
 
